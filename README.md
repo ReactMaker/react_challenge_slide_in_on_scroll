@@ -1,6 +1,10 @@
 # react_challenge_slide_in_on_scroll
 
-這個環境包可以讓你快速體驗 ReactJS 開發環境的便利，我們並沒有在裏面放入太多套件(例如 redux, karma)，希望可以讓你用最簡單的環境開始學習 React
+滾動到定點的時候會產生動畫的範例
+
+![Imgur](http://i.imgur.com/FxUgG2V.gif)
+
+##[DEMO](https://reactmaker.github.io/react_challenge_slide_in_on_scroll/#/)
 
 ## 特色
 
@@ -20,8 +24,8 @@
 先確定好安裝了 node 4.5 以上的版本，接著就可以輸入以下指令
 
 ```bash
-$ git clone https://github.com/ReactMaker/simple_react_start_kit_2017
-$ cd simple_react_start_kit_2017
+$ git clone https://github.com/ReactMaker/react_challenge_slide_in_on_scroll
+$ cd react_challenge_slide_in_on_scroll
 $ npm install                   # Install project dependencies
 $ npm start                     # Compile and launch
 ```
