@@ -4,7 +4,7 @@
 
 ![Imgur](http://i.imgur.com/FxUgG2V.gif)
 
-##[DEMO](https://reactmaker.github.io/react_challenge_slide_in_on_scroll/#/)
+## [DEMO](https://reactmaker.github.io/react_challenge_slide_in_on_scroll/#/)
 
 ## 特色
 
